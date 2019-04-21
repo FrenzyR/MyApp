@@ -5,7 +5,7 @@ namespace org.red.logic
     class Programa
     {
         static void  Main(){
-            Console.Out.WriteLine("lerele");
+            Console.Out.WriteLine("lerv ele");
         }
     }
 }
